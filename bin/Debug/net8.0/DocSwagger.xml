@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookCatalog</name>
+    </assembly>
+    <members>
+        <member name="M:BookCatalog.Controllers.Account.AccountController.Login(BookCatalog.ViewModels.User.LoginViewModel)">
+            <summary>
+            Efetua o login.
+            </summary>
+            <param name="model.Email.Email">Email</param>
+            <param name="model.Password.Password"></param>
+            <response code="200">Sucesso.</response>
+            <response code="403">Usuário ou senha inválidos!</response>
+        </member>
+        <member name="T:BookCatalog.Migrations.InitialCreation">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.InitialCreation.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.InitialCreation.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.InitialCreation.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:BookCatalog.Migrations.FixFieldCreatedAt">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.FixFieldCreatedAt.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.FixFieldCreatedAt.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookCatalog.Migrations.FixFieldCreatedAt.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="P:BookCatalog.ViewModels.User.EditorUserViewModel.Role">
+            <summary>
+            Defina esse campo como:
+            admin, user ou author
+            </summary>
+        </member>
+    </members>
+</doc>

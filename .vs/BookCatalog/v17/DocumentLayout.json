@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Projetos\\BookCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|c:\\users\\rodri\\projetos\\bookcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|c:\\users\\rodri\\projetos\\bookcatalog\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|solutionrelative:models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|c:\\users\\rodri\\projetos\\bookcatalog\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|solutionrelative:controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|c:\\users\\rodri\\projetos\\bookcatalog\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|solutionrelative:services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|c:\\users\\rodri\\projetos\\bookcatalog\\viewmodels\\user\\editoruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D7979-4009-45FD-99B4-5E289C1D2A35}|BookCatalog.csproj|solutionrelative:viewmodels\\user\\editoruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T21:42:00.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoleModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Models\\RoleModel.cs",
+              "RelativeToolTip": "Models\\RoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T20:37:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "Controllers\\User\\UserController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAewHQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T20:25:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Services\\UserRoleService.cs",
+              "RelativeDocumentMoniker": "Services\\UserRoleService.cs",
+              "ToolTip": "C:\\Users\\rodri\\Projetos\\BookCatalog\\Services\\UserRoleService.cs",
+              "RelativeToolTip": "Services\\UserRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T20:34:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditorUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Projetos\\BookCatalog\\ViewModels\\User\\EditorUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\User\\EditorUserViewModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\Projetos\\BookCatalog\\ViewModels\\User\\EditorUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\User\\EditorUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T20:25:08.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
