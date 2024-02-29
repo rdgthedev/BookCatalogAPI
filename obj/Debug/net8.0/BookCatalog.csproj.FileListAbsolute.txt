@@ -137,3 +137,4 @@ C:\Users\rodri\Projetos\BookCatalog\obj\Debug\net8.0\refint\BookCatalog.dll
 C:\Users\rodri\Projetos\BookCatalog\obj\Debug\net8.0\BookCatalog.pdb
 C:\Users\rodri\Projetos\BookCatalog\obj\Debug\net8.0\BookCatalog.genruntimeconfig.cache
 C:\Users\rodri\Projetos\BookCatalog\obj\Debug\net8.0\ref\BookCatalog.dll
+C:\Users\rodri\Projetos\BookCatalog\obj\Debug\net8.0\BookCatalog.sourcelink.json

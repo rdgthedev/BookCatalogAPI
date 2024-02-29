@@ -56,7 +56,7 @@ namespace BookCatalog.Controllers.User
         }
 
         [HttpPost("v1/users")]
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
         public async Task<IActionResult> CreateUser(
             [FromBody] EditorUserViewModel model)
         {
